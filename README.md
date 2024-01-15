@@ -76,3 +76,9 @@ while i != 2:
     else:
         print("Wrong input")
 ```
+
+
+## Mongodb django tutorial
+```
+https://www.mongodb.com/compatibility/mongodb-and-django
+```
